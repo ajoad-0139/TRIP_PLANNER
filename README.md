@@ -23,7 +23,7 @@ Data is stored persistently in SQLite, so it survives application restarts.
 ## 3. Run From a Fresh Clone (recommended)
 
 ```bash
-git clone https://github.com/ajoad-0139/ajoad_islam_nishat_trip_planner_batch_12.git
+git clone https://github.com/ajoad-0139/TRIP_PLANNER.git
 cd ajoad_islam_nishat_trip_planner_batch_12
 ./run.sh
 ```

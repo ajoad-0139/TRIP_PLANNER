@@ -1,4 +1,4 @@
-# ajoad_islam_nishat_trip_planner_batch_12
+# TRIP_PLANNER
 
 Smart Group Trip Planner API: a REST backend built with **Python, Flask and SQLite** for Internship Batch 12.
 

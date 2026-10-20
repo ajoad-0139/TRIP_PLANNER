@@ -24,7 +24,7 @@ Data is stored persistently in SQLite, so it survives application restarts.
 
 ```bash
 git clone https://github.com/ajoad-0139/TRIP_PLANNER.git
-cd ajoad_islam_nishat_trip_planner_batch_12
+cd TRIP_PLANNER
 ./run.sh
 ```
 
